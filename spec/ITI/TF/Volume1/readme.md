@@ -8,6 +8,16 @@ Links will go from this content to the Transaction or Content Specifications
 
 index.html in this folder will itemize the content much like the table-of-content supports Volume today
 
+## Pilot
+
+Here is what Microsoft Word creates as one monolithic html ./index.html
+
+Here is what Pandoc creates as one monolighic html ./vol1.html
+
+Here is what I created from the pandoc by splitting up each chapter into numbered html files ./chapters.html
+
+Here is the markdown created from pandoc ./vol1.md
+
 ## Future
 
 Deeper links to sub-sections
