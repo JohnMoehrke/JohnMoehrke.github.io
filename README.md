@@ -6,6 +6,7 @@
 - I don't do professional social contacts on Facebook
 - [John Moehrke linkedIn](https://www.linkedin.com/in/john-moehrke-6841414/)
 - [John Moehrke github](https://github.com/johnmoehrke)
+- [RelatedPerson Consent IG](https://johnmoehrke.github.io/RelatedPersonConsent)
 
 
 # notes on using Markdown
