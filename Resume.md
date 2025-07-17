@@ -2,7 +2,7 @@
 
 - Interoperability Standards Architect
 - **Phone:** +1-920-564-2067
-- **email:** johnmoehrke@gmail.com
+- **Email:** johnmoehrke@gmail.com
 - **Blog:** http://healthcaresecprivacy.blogspot.com/
 - **GitHub:** http://github.com/JohnMoehrke/
 - **LinkedIn:** [John Moehrke](https://www.linkedin.com/in/john-moehrke-6841414/)
@@ -19,7 +19,7 @@ Distinguished Interoperability Architect and recognized security and privacy exp
 
 ## Significant Projects
 
-The following are a few of the significant projects that I lead, and/or provided significant contribution.
+The following are a few of the projects that I led, and/or provided significant contribution.
 
 | Where | While | When |
 | ----- | ----- | ----- |
@@ -67,9 +67,9 @@ The following are a few of the significant projects that I lead, and/or provided
   - IG publishing facilitator (2017-present)
   - IHE appointed liaison to FHIR core (2018-2025)
   - IHE appointed technical liaison to JIC IPSCC (2020-2025)
-- Tutorials and advise
+- Tutorials and advising
   - HL7 FHIR Security and Privacy tutorial and certification exam
-  - IHE {many} presentations on IHE profiles
+  - IHE presentations on IHE profiles
   - mentored many Implementation Guide authors
   - provides Q&A forum on various Healthcare standards
   - [Healthcare Exchange Standards Blog](http://healthcaresecprivacy.blogspot.com/)
