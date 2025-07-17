@@ -1,4 +1,3 @@
-# JohnMoehrke.github.io
 
 - [Résumé](Resume.md)
 - [Healthcare Exchange, Security, and Privacy blog](https://healthcaresecprivacy.blogspot.com/)

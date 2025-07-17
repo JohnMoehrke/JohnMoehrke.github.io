@@ -1,4 +1,3 @@
-# John F. Moehrke
 
 - Interoperability Standards Architect
 - **Phone:** +1-920-564-2067
