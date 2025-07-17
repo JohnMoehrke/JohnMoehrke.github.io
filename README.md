@@ -1,5 +1,6 @@
 # JohnMoehrke.github.io
 
+- [Résumé](Resume.md)
 - [Healthcare Exchange, Security, and Privacy blog](https://healthcaresecprivacy.blogspot.com/)
 - [John Moehrke email](mailto:JohnMoehrke@gmail.com)
 - [John Moehrke twitter](https://twitter.com/johnmoehrke)
@@ -10,6 +11,7 @@
 
 
 # notes on using Markdown
+
 blah
 
 | **Instruction to editor**                      |
