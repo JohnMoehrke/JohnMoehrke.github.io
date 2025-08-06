@@ -66,6 +66,7 @@ The following are a few of the projects that I led, and/or provided significant 
   - IG publishing facilitator (2017-present)
   - IHE appointed liaison to FHIR core (2018-2025)
   - IHE appointed technical liaison to JIC IPSCC (2020-2025)
+  - Google Analytics Administrator (2017-present)
 - Tutorials and advising
   - HL7 FHIR Security and Privacy tutorial and certification exam
   - IHE presentations on IHE profiles
@@ -83,6 +84,7 @@ The following are a few of the projects that I led, and/or provided significant 
 - Security and Privacy Standards: OAuth, OpenID Connect, AuditEvent, Provenance, Digital-Signature, Certificate Management
 - Health Information Exchange Standards: IHE XDS, IHE XCA/XCPD, IHE MHD, FHIR, CDA
 - Github administration
+- Google Analytics
 - IG Authoring and Publishing
 - Tools: Github, YAML, json, xml, xslt, Sushi (FSH), plantuml, mermaid, Gherkin, GLSL, Batch, Python, HTML, Markdown, CSS, pandoc
 - Internationally read blog Healthcare Security/Privacy at http://healthcaresecprivacy.blogspot.com/
