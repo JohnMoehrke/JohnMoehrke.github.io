@@ -1,0 +1,34 @@
+title: John F. Moehrke - Healthcare Interoperability Consultant
+description: Distinguished Interoperability Architect specializing in FHIR, HL7, and IHE implementation guides
+author: John F. Moehrke
+email: johnmoehrke@gmail.com
+url: https://MoehrkeResearch.com
+
+# GitHub Pages settings
+theme: null
+plugins: []
+
+# SEO and social media
+twitter:
+  username: johnmoehrke
+  
+linkedin:
+  username: john-moehrke-6841414
+
+github:
+  username: JohnMoehrke
+
+# Site settings
+lang: en-US
+timezone: America/Chicago
+
+# Exclude files from Jekyll processing
+exclude:
+  - README.md
+  - .gitignore
+  - script.js
+  - styles.css
+
+# Include files
+include:
+  - index.html

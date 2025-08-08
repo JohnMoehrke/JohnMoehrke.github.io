@@ -85,6 +85,7 @@ The following are a few of the projects that I led, and/or provided significant 
 - Health Information Exchange Standards: IHE XDS, IHE XCA/XCPD, IHE MHD, FHIR, CDA
 - Github administration
 - Google Analytics
+- Trustable AI use in Healthcare
 - IG Authoring and Publishing
 - Tools: Github, YAML, json, xml, xslt, Sushi (FSH), plantuml, mermaid, Gherkin, GLSL, Batch, Python, HTML, Markdown, CSS, pandoc
 - Internationally read blog Healthcare Security/Privacy at http://healthcaresecprivacy.blogspot.com/
