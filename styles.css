@@ -604,9 +604,13 @@ section {
     color: var(--accent-color);
 }
 
+
 .social-links {
     display: flex;
+    flex-wrap: wrap;
     gap: 1rem;
+    row-gap: 1rem;
+    max-width: 300px;
 }
 
 .social-links a {
