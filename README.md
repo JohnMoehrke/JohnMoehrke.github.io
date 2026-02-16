@@ -25,6 +25,12 @@ John F. Moehrke is a recognized security and privacy expert with over 25 years o
 - John Quinn HL7 Fellowship Award recipient
 - Served over 7 million Veterans through MyHealtheVet standards implementation
 
+## Recent GitHub Projects
+
+- **[FHIR Security Labeling Service (SLS)](https://github.com/SHIFT-Task-Force/sls-ri)**: Reference implementation that processes FHIR ValueSets and applies security labels to clinical resources.
+- **[Consent About AI use](https://github.com/JohnMoehrke/ConsentAboutAI)**: Trial FHIR implementation guide showing how Consent can permit or deny AI use-cases.
+- **[Correction example IG](https://github.com/JohnMoehrke/correction)**: Trial FHIR implementation guide on Provenance profiles for documenting data corrections and replacements.
+
 ## Technical Expertise
 
 - **Healthcare Standards**: HL7 FHIR, FHIR R4, us-core, IPS, CDA, DICOM
