@@ -47,7 +47,8 @@ John F. Moehrke is a recognized security and privacy expert with over 25 years o
 
 ## Quick Links
 
-- [Professional Résumé](Resume.md)
+- [Professional Résumé (Markdown)](Resume.md)
+- [Professional Résumé (Web Page)](resume.html)
 - [RelatedPerson Consent IG](https://johnmoehrke.github.io/RelatedPersonConsent)
 - [Healthcare Exchange, Security, and Privacy blog](https://healthcaresecprivacy.blogspot.com/)
 
@@ -70,6 +71,16 @@ This responsive website includes:
 - `script.js` - JavaScript for interactivity and animations
 - `README.md` - This documentation file
 - `Resume.md` - Detailed resume in Markdown format
+- `resume.html` - Styled resume web page generated from Resume.md
+- `resume.css` - Dedicated styling for resume.html
+- `resume-template.html` - Pandoc HTML template for resume generation
+- `build-resume.ps1` - Script to regenerate resume.html from Resume.md
+
+## Resume Build
+
+To regenerate the web resume from Markdown while preserving the professional style:
+
+- `./build-resume.ps1`
 
 ## Technologies Used
 
