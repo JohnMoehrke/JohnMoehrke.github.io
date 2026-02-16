@@ -25,14 +25,10 @@ The following are a few of the projects that I led, and/or provided significant 
 
 | Where | While | When |
 | --- | --- | --- |
-| **[ByLight Professional IT Services LLC](https://bylight.com/)** | 2016-2025 | |
-| VHA Health Exchange - XCA/CDA and patient controlled w/ FHIR Consent | | 2016-2020 |
-| VHA MyHealtheVet - Patient Generated Health Data – FHIR architect | | 2020-2022 |
-| VHA MyHealtheVet - va.gov frontend redesign – FHIR architect | | 2022-2025 |
-| **[GE Healthcare](https://www.gehealthcare.com/)** | 1998-2016 | |
-| Interoperability standards development and product implementation | | 2001-2016 |
 | **[SHIFT](https://www.drummondgroup.com/shift/)** | 2023-present | |
 | [FHIR Consent SME](https://github.com/SHIFT-Task-Force) | | 2024-present |
+| [FHIR Security Labeling Service (SLS) Reference Implementation](https://github.com/SHIFT-Task-Force/sls-ri) | | 2025-present |
+| [FHIR Sensitive Topic ValueSets](https://github.com/SHIFT-Task-Force/SLS-ValueSets) | | 2025-present |
 | **Recent GitHub Projects** | 2025-present | |
 | [FHIR Security Labeling Service (SLS)](https://github.com/SHIFT-Task-Force/sls-ri) | | 2025-present |
 | [Consent About AI use](https://github.com/JohnMoehrke/ConsentAboutAI) | | 2025-present |
@@ -48,6 +44,7 @@ The following are a few of the projects that I led, and/or provided significant 
 | [FHIR Security and Privacy tutorial](http://bit.ly/FHIR-SecPriv) | | 2024-present |
 | [International Patient Summary (IPS)](https://build.fhir.org/ig/HL7/fhir-ips/Privacy-and-Security-Considerations.html) | | 2018-present |
 | **[IHE](https://www.ihe.net)** | 1999-2025 | |
+| [MHD over FHIR R5](https://profiles.ihe.net/ITI/MHD/5.0.0/index.html) | | 2025 |
 | [Convert full ITI Technical Framework to html](https://profiles.ihe.net/ITI/TF/Volume1/index.html) | | 2020-2021 |
 | [Define Continuous Development Process](https://wiki.ihe.net/index.php/Continuous_Development_Process) | | 2018-2020 |
 | [IHE Template for IG publisher](https://github.com/IHE/ihe-ig-template) | | 2018-2022 |
@@ -59,6 +56,12 @@ The following are a few of the projects that I led, and/or provided significant 
 | [Mobile Cross-Enterprise Document Data Element Extraction (mXDE)](https://profiles.ihe.net/ITI/mXDE/index.html) | | 2017-2023 |
 | [De-Identification Handbook](https://github.com/IHE/ITI.DeIdHandbook) | | 2014-2025 |
 | [Document Sharing Health Information Exchange White Paper](https://profiles.ihe.net/ITI/HIE-Whitepaper/index.html) | | 2017-2024 |
+| **[ByLight Professional IT Services LLC](https://bylight.com/)** | 2016-2025 | |
+| VHA Health Exchange - XCA/CDA and patient controlled w/ FHIR Consent | | 2016-2020 |
+| VHA MyHealtheVet - Patient Generated Health Data – FHIR architect | | 2020-2022 |
+| VHA MyHealtheVet - va.gov frontend redesign – FHIR architect | | 2022-2025 |
+| **[GE Healthcare](https://www.gehealthcare.com/)** | 1998-2016 | |
+| Interoperability standards development and product implementation | | 2001-2016 |
 
 ## Leadership and Governance
 

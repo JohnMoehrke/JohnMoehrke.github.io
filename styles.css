@@ -240,14 +240,6 @@ section {
     line-height: 1.7;
 }
 
-.recognition {
-    background: white;
-    padding: 1.5rem;
-    border-radius: var(--border-radius);
-    border-left: 4px solid var(--primary-color);
-    margin-top: 2rem;
-}
-
 .about-sidebar {
     background: white;
     padding: 2rem;
