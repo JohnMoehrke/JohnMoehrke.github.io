@@ -34,7 +34,7 @@ John F. Moehrke is a recognized security and privacy expert with over 25 years o
 ## Contact
 
 - **Phone**: +1-920-564-2067
-- **Email**: johnmoehrke@gmail.com
+- **Email**: [johnmoehrke@gmail.com](mailto:johnmoehrke@gmail.com)
 - **LinkedIn**: [John Moehrke](https://www.linkedin.com/in/john-moehrke-6841414/)
 - **GitHub**: [JohnMoehrke](http://github.com/JohnMoehrke/)
 - **Blog**: [Healthcare Security/Privacy](http://healthcaresecprivacy.blogspot.com/)
@@ -48,9 +48,10 @@ John F. Moehrke is a recognized security and privacy expert with over 25 years o
 ## Website Features
 
 This responsive website includes:
+
 - Modern, professional design
 - Mobile-responsive layout
-- Interactive contact form
+- Direct contact links (email, phone, social)
 - Service portfolio showcase
 - Project timeline
 - Technical expertise display

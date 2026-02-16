@@ -60,7 +60,7 @@ const observer = new IntersectionObserver(function(entries) {
 
 // Observe elements for animation
 document.addEventListener('DOMContentLoaded', function() {
-    const animatedElements = document.querySelectorAll('.service-card, .timeline-item, .expertise-category, .contact-method');
+    const animatedElements = document.querySelectorAll('.service-card, .timeline-item, .expertise-category');
     
     animatedElements.forEach(el => {
         el.style.opacity = '0';
@@ -68,34 +68,6 @@ document.addEventListener('DOMContentLoaded', function() {
         el.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
         observer.observe(el);
     });
-});
-
-// Form Enhancement
-document.addEventListener('DOMContentLoaded', function() {
-    const form = document.querySelector('.contact-form form');
-    
-    if (form) {
-        form.addEventListener('submit', function(e) {
-            // Basic form validation
-            const name = document.getElementById('name').value.trim();
-            const email = document.getElementById('email').value.trim();
-            const message = document.getElementById('message').value.trim();
-            
-            if (!name || !email || !message) {
-                e.preventDefault();
-                alert('Please fill in all required fields.');
-                return;
-            }
-            
-            // Email validation
-            const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-            if (!emailRegex.test(email)) {
-                e.preventDefault();
-                alert('Please enter a valid email address.');
-                return;
-            }
-        });
-    }
 });
 
 // Skill hover effect enhancement
