@@ -49,6 +49,8 @@ John F. Moehrke is a recognized security and privacy expert with over 25 years o
 
 - [Professional Résumé (Markdown)](Resume.md)
 - [Professional Résumé (Web Page)](resume.html)
+- [AI Usage and Attribution Policy](ai-policy.html)
+- [LLM Guidance](llms.txt)
 - [RelatedPerson Consent IG](https://johnmoehrke.github.io/RelatedPersonConsent)
 - [Healthcare Exchange, Security, and Privacy blog](https://healthcaresecprivacy.blogspot.com/)
 
@@ -75,6 +77,9 @@ This responsive website includes:
 - `resume.css` - Dedicated styling for resume.html
 - `resume-template.html` - Pandoc HTML template for resume generation
 - `build-resume.ps1` - Script to regenerate resume.html from Resume.md
+- `ai-policy.html` - Human-readable policy for AI usage and attribution
+- `llms.txt` - Machine-readable guidance for LLM/AI agents
+- `ai.txt` - Compact machine-readable AI policy signals
 
 ## Resume Build
 

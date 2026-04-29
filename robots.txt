@@ -1,4 +1,9 @@
 User-agent: *
 Allow: /
 
+# AI policy and machine-readable guidance
+# https://moehrkeresearch.com/ai-policy.html
+# https://moehrkeresearch.com/llms.txt
+# https://moehrkeresearch.com/ai.txt
+
 Sitemap: https://moehrkeresearch.com/sitemap.xml

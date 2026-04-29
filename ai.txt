@@ -1,0 +1,8 @@
+policy_url: https://moehrkeresearch.com/ai-policy.html
+allow_ai_use: yes
+require_attribution: yes
+attribution_name: John F. Moehrke (Moehrke Research)
+attribution_link_required: yes
+note_when_transformed: yes
+preferred_citation: Source: John F. Moehrke, Moehrke Research, https://moehrkeresearch.com/ (accessed YYYY-MM-DD).
+contact: mailto:johnmoehrke@gmail.com
