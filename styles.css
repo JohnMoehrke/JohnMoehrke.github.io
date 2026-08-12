@@ -148,12 +148,6 @@ body {
     opacity: 0.8;
 }
 
-.hero-cta {
-    display: flex;
-    gap: 1rem;
-    justify-content: center;
-}
-
 /* Buttons */
 .btn-primary {
     background: white;
@@ -209,6 +203,31 @@ section {
 .section-header p {
     font-size: 1.125rem;
     color: var(--text-secondary);
+}
+
+/* Availability Banner */
+.about-strip {
+    background: var(--background-light);
+    padding-top: 0;
+    padding-bottom: 2rem;
+}
+
+.availability-box {
+    background: white;
+    border: 1px solid var(--border-color);
+    border-left: 5px solid var(--primary-color);
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow);
+    padding: 1.5rem 2rem;
+    max-width: 980px;
+    margin: 0 auto;
+}
+
+.availability-box p {
+    margin: 0;
+    color: var(--text-primary);
+    line-height: 1.7;
+    font-size: 1.05rem;
 }
 
 /* About Section */

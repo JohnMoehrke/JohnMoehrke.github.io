@@ -1,7 +1,7 @@
 
 # John F. Moehrke
 
-- Interoperability Standards Architect
+- Healthcare Interoperability, FHIR, HL7, Privacy & Security Consultant
 - **Phone:** +1-920-564-2067
 - **Email:** [JohnMoehrke@gmail.com](mailto:JohnMoehrke@gmail.com)
 - **Signal:** JohnMoehrke.08
@@ -11,28 +11,31 @@
 
 ## Summary
 
-Distinguished Interoperability Architect and recognized security and privacy expert with many years of experience enabling privacy-respecting Health Information Exchange and secure data use across global healthcare systems.
+Healthcare interoperability, FHIR, HL7, and privacy consultant with more than 25 years of experience helping organizations design secure, standards-based health information exchange, patient access, consent, and AI transparency solutions.
 
-**Standards Leadership:** Co-Chair of HL7 Security Working Group and IHE IT-Infrastructure, driving the development of international healthcare interoperability standards. Author and editor of numerous international and regional **Implementation Guides** (IG) that shape global healthcare data exchange, including FHIR security frameworks and privacy consent models.
+**Standards Leadership:** Co-Chair of HL7 Security Working Group and IHE IT-Infrastructure, authoring and advancing international healthcare interoperability standards through FHIR, implementation guides, security frameworks, and privacy models.
 
-**Systems Design:** Specializes in orchestrating secure data movement between stakeholder systems while ensuring efficient, effective, and accurate processes. Expert in translating complex standards into practical frameworks that support regulatory compliance and trusted communications across health systems.
+**Consulting Focus:** Delivers practical guidance for health systems, digital health teams, and standards organizations that need help with interoperable architecture, trust and identity patterns, patient consent, security controls, and policy-aligned data exchange.
 
-**Use of Standards:** Aided [MyHealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home) with the use of standards to benefit the [7 million Veteran patients that use it](https://www.va.gov/health/survey.asp#:~:text=VA%20Survey%20of%20Veteran%20Enrollees,My%20HealtheVet). First, with use of health information exchange interface to the nationwide health exchange, and enabling the Veteran to Consent or Dissent using FHIR Consent resource. Second, empowering the Veteran to report their own measurements for various vital-signs using FHIR. Finally, enabled transition from proprietary database to open source HAPI FHIR Server; using profiled and mapped FHIR Resources aligned with FHIR us-core. Other FHIR transitions are in the development queue.
+**Real-World Impact:** Supported [MyHealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home) in enabling standards-based access for the [7 million Veteran patients that use it](https://www.va.gov/health/survey.asp#:~:text=VA%20Survey%20of%20Veteran%20Enrollees,My%20HealtheVet), including FHIR consent, patient-generated data exchange, and secure healthcare information sharing across systems.
 
 ## Significant Projects
 
-The following are a few of the projects that I led, and/or provided significant contribution.
+The following are a few of the projects that I led or made significant contributions to. Recent consulting and standards work has been added without replacing the established public project history.
 
 | Where | While | When |
 | --- | --- | --- |
-| **[SHIFT](https://www.drummondgroup.com/shift/)** | 2023-present | |
-| [FHIR Consent SME](https://github.com/SHIFT-Task-Force) | | 2024-present |
-| [FHIR Security Labeling Service (SLS) Reference Implementation](https://github.com/SHIFT-Task-Force/sls-ri) | | 2025-present |
-| [FHIR Sensitive Topic ValueSets](https://github.com/SHIFT-Task-Force/SLS-ValueSets) | | 2025-present |
-| **Recent GitHub Projects** | 2025-present | |
-| [FHIR Security Labeling Service (SLS)](https://github.com/SHIFT-Task-Force/sls-ri) | | 2025-present |
-| [Consent About AI use](https://github.com/JohnMoehrke/ConsentAboutAI) | | 2025-present |
-| [Correction example IG](https://github.com/JohnMoehrke/correction) | | 2025-present |
+| [FAST Security IG](https://build.fhir.org/ig/HL7/fhir-udap-security-ig/index.html) | Consulting | 2025-present |
+| [FAST Directory](https://build.fhir.org/ig/HL7/fhir-us-ndh/branches/master/en/) | Consulting | 2025-present |
+| [FAST Identity](https://build.fhir.org/ig/HL7/fhir-identity-matching-ig/branches/master/en/) | Consulting | 2025-present |
+| [HL7 AI Transparency on FHIR IG](https://build.fhir.org/ig/HL7/aitransparency-ig/branches/main/en/) | Pro bono HL7 | 2024-present |
+| [Colorado BHA behavioral health reporting](https://build.fhir.org/ig/CoBHA/CoBHRM-FHIR-IG/branches/main/en/index.html) | Consulting | 2025-present |
+| Confidential surgical coordination engagement | Consulting | 2025-present |
+| [FHIR Consent SME](https://github.com/SHIFT-Task-Force) | Pro bono SHIFT | 2024-present |
+| [FHIR Security Labeling Service (SLS) Reference Implementation](https://github.com/SHIFT-Task-Force/sls-ri) | Pro bono SHIFT | 2025-present |
+| [FHIR Sensitive Topic ValueSets](https://github.com/SHIFT-Task-Force/SLS-ValueSets) | Pro bono SHIFT | 2025-present |
+| [Consent About AI use](https://github.com/JohnMoehrke/ConsentAboutAI) | Personal project | 2025-present |
+| [Correction example IG](https://github.com/JohnMoehrke/correction) | Personal project | 2025-present |
 | **[Data and Trust Alliance](https://dataandtrustalliance.org/)** | 2023-2024 | |
 | AI Dataset - [Data Provenance Standard](https://github.com/Data-and-Trust-Alliance/DPS) | | 2023-2024 |
 | **[HL7](https://www.hl7.org)** | 1999-present | |
@@ -40,7 +43,6 @@ The following are a few of the projects that I led, and/or provided significant 
 | FHIR Core - [Security and Privacy](https://hl7.org/fhir/secpriv-module.html) | | 2017-present |
 | [Healthcare Privacy and Security Classification](https://hl7.org/fhir/security-labels.html#hcs) | | 2013-2014 |
 | [FHIR Data Segmentation for Privacy (DS4P)](https://hl7.org/fhir/uv/security-label-ds4p/) | | 2020-present |
-| [AI Transparency IG](https://github.com/HL7/aitransparency-ig) | | 2024-present |
 | [FHIR Security and Privacy tutorial](http://bit.ly/FHIR-SecPriv) | | 2024-present |
 | [International Patient Summary (IPS)](https://build.fhir.org/ig/HL7/fhir-ips/Privacy-and-Security-Considerations.html) | | 2018-present |
 | **[IHE](https://www.ihe.net)** | 1999-2025 | |
@@ -68,11 +70,12 @@ The following are a few of the projects that I led, and/or provided significant 
 - HL7
   - Co-Chair, HL7 Security Working group (2013-present)
   - FHIR Core team and facilitator (2017-present)
+  - FAST Subject Matter Expert (2025-present)
   - FHIR Foundation (2016)
   - FHIR Management Group (2015-2024)
 - IHE
   - Co-Chair, IHE IT-Infrastructure (2018-2025)
-  - IHE Github Administrator (2017-present)
+  - IHE GitHub Administrator (2017-present)
   - IG publishing facilitator (2017-present)
   - IHE appointed liaison to FHIR core (2018-2025)
   - IHE appointed technical liaison to JIC IPSCC (2020-2025)
@@ -87,17 +90,17 @@ The following are a few of the projects that I led, and/or provided significant 
 ## Skills and Technologies
 
 - Industry recognized expert in security architecture including: user authentication, access controls, audit controls, digital signatures, digital certificates, de-identification, pseudonymization, federated identity, message encryption, and transport encryption.
-- Primary editor of IHE Profiles – sIPS, MHDS, MHD, BPPC, ATNA, BPPC, BALP, mXDE, PDQm, PIXm, PMIR, PCF, XUA, IUA, DSG, DEN, and De-Identification Handbook.
+- Primary editor of IHE Profiles – sIPS, MHDS, MHD, BPPC, ATNA, BALP, mXDE, PDQm, PIXm, PMIR, PCF, XUA, IUA, DSG, DEN, and De-Identification Handbook.
 - FHIR Modeler for Privacy Consent Directive, Provenance, AuditEvent, Signature, ImagingStudy, ImagingObjectSelection.
 - Standards: HL7, FHIR, CDA, DICOM
 - HL7 FHIR: FHIR R4, us-core, IPS, IPA
 - Security and Privacy Standards: OAuth, OpenID Connect, AuditEvent, Provenance, Digital-Signature, Certificate Management
 - Health Information Exchange Standards: IHE XDS, IHE XCA/XCPD, IHE MHD, FHIR, CDA
-- Github administration
+- GitHub administration
 - Google Analytics
 - Trustable AI use in Healthcare
 - IG Authoring and Publishing
-- Tools: Github, YAML, json, xml, xslt, Sushi (FSH), plantuml, mermaid, Gherkin, GLSL, Batch, Python, HTML, Markdown, CSS, pandoc
+- Tools: GitHub, YAML, JSON, XML, XSLT, Sushi (FSH), PlantUML, Mermaid, Gherkin, GLSL, Batch, Python, HTML, Markdown, CSS, Pandoc
 - Internationally read blog Healthcare Security/Privacy at [healthcaresecprivacy.blogspot.com](http://healthcaresecprivacy.blogspot.com/)
 
 ## Recognition
@@ -106,5 +109,5 @@ The following are a few of the projects that I led, and/or provided significant 
 
 ## Education
 
-- Bachelors of Science - CS&E, Computer Science, Milwaukee School of Engineering University, Milwaukee, WI, 1987
+- Bachelor of Science - CS&E, Computer Science, Milwaukee School of Engineering University, Milwaukee, WI, 1987
   - Minor in Privacy and Network Architecture

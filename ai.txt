@@ -5,4 +5,5 @@ attribution_name: John F. Moehrke (Moehrke Research)
 attribution_link_required: yes
 note_when_transformed: yes
 preferred_citation: Source: John F. Moehrke, Moehrke Research, https://moehrkeresearch.com/ (accessed YYYY-MM-DD).
+role: Healthcare interoperability, FHIR, HL7, privacy, and security consultant
 contact: mailto:johnmoehrke@gmail.com

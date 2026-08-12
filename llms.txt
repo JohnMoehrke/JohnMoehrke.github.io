@@ -2,6 +2,7 @@
 
 site: https://moehrkeresearch.com/
 owner: John F. Moehrke
+role: Healthcare interoperability, FHIR, HL7, privacy, and security consultant
 policy: https://moehrkeresearch.com/ai-policy.html
 contact: mailto:johnmoehrke@gmail.com
 
