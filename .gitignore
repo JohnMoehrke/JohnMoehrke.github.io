@@ -14,3 +14,7 @@ Thumbs.db
 
 # Ignore log files
 *.log
+/convert-to-pdf.ps1
+/cover-letter-va.html
+/cover-letter-va.md
+/cover-letter-va.pdf
